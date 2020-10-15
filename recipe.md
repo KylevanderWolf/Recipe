@@ -2,8 +2,13 @@
 
 ![Cheese Burger](https://thehappypear.ie/wp-content/uploads/2020/02/Facon-Cheese-Burger-1024x1024.png)
 
-i will keep this simple for now! 
-checkout the link below and get the ingredients
+The **Main** ingredients are:
+
+* Beef
+* Cheese
+* Sandwich
+
+For more details and a full list of all the ingredients, checkout the link below!
 
 [Ingredients here!](https://thehappypear.ie/recipes/facon-double-cheese-burger/)
 
